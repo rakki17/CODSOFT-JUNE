@@ -1,4 +1,4 @@
-# CODSOFT-JUNE
+# CODSOFT-JUNE-TASK1
 My intership project for Codesoft
 import random
 import string
